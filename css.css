@@ -1,0 +1,54 @@
+/* posicionamento das imagens*/
+.posicaoimg{
+    padding: 0%;
+    margin: 0%;
+    max-width: 300;
+    max-height: 100;
+    align-items: stretch;
+    display: inline-block;
+    justify-content: space-around;
+}
+
+/* alinhamento de texto das imgs*/
+.texto{
+    width: 1000px;
+    display: inline-block;
+}
+
+/*textos dos parágrafos*/
+.paragrafo{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+/*cor dos titulos principal h1*/
+.titulos{
+    color: rgb(202, 63, 13);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/*cor dos subtitulos h2*/
+.subtitulos{
+    color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/* estilo texto rodape*/
+.rodape{
+    background-color: #f39e66;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+/*imagens grid pagina 2*/
+.fotos{
+    display: flexbox;
+    align-items: stretch;
+    justify-content: space-around;
+    
+
+}
